@@ -1,0 +1,6 @@
+Addition +
+Subtraction -
+Multilplication *
+Divistion /
+Modulus %
+Exponentiation **
